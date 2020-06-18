@@ -2,3 +2,4 @@ Hello
 hi
 good bye
 thanks
+konnichiwa
